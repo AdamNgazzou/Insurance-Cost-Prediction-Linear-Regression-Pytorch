@@ -1,6 +1,7 @@
 # Insurance Cost Prediction using Linear Regression
 
 This project predicts yearly medical insurance costs based on personal attributes like age, sex, BMI, number of children, and smoking habits. This model can be valuable for insurance companies in determining annual insurance premiums. The dataset used for this project is from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance).
+![Actual vs. Predicted Insurance Charges](Actual_vs_Predicted_Insurance_Charges.png)
 
 ## Project Steps
 
